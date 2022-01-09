@@ -14,7 +14,10 @@
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original.svg"></code>&nbsp; |
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>&nbsp; |
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>&nbsp;   |
-  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Golang/Golang-original.svg"></code>&nbsp;
+  <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>&nbsp;   | 
+    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg"></code>&nbsp;   | 
+    <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rubby/rubby-original.svg"></code>&nbsp;   | 
+  
 </p>
 
 
