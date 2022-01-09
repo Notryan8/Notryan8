@@ -48,7 +48,7 @@
     <h3> my statistics</h3>
     <img src="https://activity-graph.herokuapp.com/graph?username=notpunchnox"><br /><br />
     <img src="https://github-readme-stats.vercel.app/api?username=Notryan8&show_icons=true&theme=jolly&count_private=true" /><br /><br />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Notryan8&theme=jolly&count_private=true" /><br /><br />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raqqa&theme=jolly&count_private=true" /><br /><br />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notryan8&layout=compact&theme=jolly&count_private=true" /><br />
 </div>
 
